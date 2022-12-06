@@ -42,6 +42,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/jotavek/myprofile/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jotavek/jotavek/blob/output/github-contribution-grid-snake.svg)
   
 </div>
