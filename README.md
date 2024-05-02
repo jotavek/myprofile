@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Bem vindo ao meu github
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-galv%C3%A3o-40613b233/">João Victor</a>
+    <a href="https://www.linkedin.com/in/joao-victor-galvao-40613b233/">João Victor</a>
   </h1>
   
   <p align="center">
