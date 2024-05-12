@@ -12,10 +12,8 @@
 </div>
 
 <div>
-  <a href="https://github.com/jotavek">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotavek&count_private=false&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavek&layout=compact&theme=dark"/>
-  </a>
 </div>
 
 <div valign="top"><br>
