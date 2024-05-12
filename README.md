@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/jotavek">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotavek&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavek&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotavek&count_private=false&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavek&layout=compact&theme=dark"/>
   </a>
 </div>
 
@@ -40,4 +40,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-victor-galvao-40613b233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jotavedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+<img alt="snake eating my contributions" src="https://github.com/jotavek/jotavek/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
