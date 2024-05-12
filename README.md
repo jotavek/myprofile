@@ -1,25 +1,24 @@
 <div>
   
-  <h1 align="center">
-    Oi Tudo bem? Bem vindo ao meu github
-    <a href="https://www.linkedin.com/in/joao-victor-galvao-40613b233/">João Victor</a>
+  <h1>
+    Oi Tudo bem? </p> Bem vindo ao meu github
   </h1>
   
-  <p align="center">
+  <p>
     Aqui eu posto meus projetos e ideias que venho desenvolvendo :)
   </p>
   
   
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/jotavek">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotavek&count_private=false&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavek&layout=compact&theme=dark"/>
   </a>
 </div>
 
-<div align="center" valign="top"><br>
+<div valign="top"><br>
   <img align="center" alt="go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
@@ -37,11 +36,15 @@
   
 </div><br>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/joao-victor-galvao-40613b233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jotavedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+<div>
 <img alt="snake eating my contributions" src="https://github.com/jotavek/jotavek/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+### Ouvindo Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pv2x50pzkthpwzvypa57rzoan&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
