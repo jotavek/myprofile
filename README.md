@@ -11,10 +11,12 @@
   
 </div>
 
+
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jotavek&count_private=false&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavek&layout=compact&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jotavek&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotavek&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
+
 
 <div valign="top"><br>
   <img align="center" alt="go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
