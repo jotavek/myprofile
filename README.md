@@ -13,8 +13,8 @@
 
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jotavek&show_icons=true&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotavek&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=jotavek&show_icons=true&theme=dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotavek&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
 
