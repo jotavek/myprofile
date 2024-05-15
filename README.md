@@ -45,6 +45,3 @@
 <img alt="snake eating my contributions" src="https://github.com/jotavek/jotavek/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-### Ouvindo Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pv2x50pzkthpwzvypa57rzoan&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/pv2x50pzkthpwzvypa57rzoan)
-
